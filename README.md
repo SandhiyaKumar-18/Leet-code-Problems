@@ -1,1 +1,1 @@
-# Leet-code-Problems
+# Strivers's Sheet Problems
